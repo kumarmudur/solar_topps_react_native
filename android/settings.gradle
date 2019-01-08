@@ -1,0 +1,3 @@
+rootProject.name = 'solar_topps'
+
+include ':app'
